@@ -1,0 +1,6 @@
+{
+  "name": "KDP GPT",
+  "description": "AI Tools for KDP Publishers - Generate complete KDP books, coloring books, puzzles, covers, and Amazon listings at kdpgpt.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
